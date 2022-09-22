@@ -1,0 +1,520 @@
+dann-0-1: Best accuracy 95.0888900756836    (time1, t_w=1.5, bs=16)
+dann-0-1: Best accuracy 95.0888900756836    (time2, seed working)
+dann-1-0: Best accuracy 95.5777816772461    (t_w=1.5；bs=16, time1)
+CQDXGear1D1-0: Best accuracy 95.5777816772461 got in epoch 464
+CQDXGear1D1-0: Best accuracy 95.80000305175781 got in epoch 924
+CQDXGear1D0-2: Best accuracy 91.11111450195312 got in epoch 582
+CQDXGear1D0-2: Best accuracy 0.0 got in epoch 0
+CQDXGear1D0-2: Best accuracy 71.06666564941406 got in epoch 459     (transfer_loss_weight=0, source only)
+CQDXGear1D0-2: Best accuracy 0.0 got in epoch 0
+CQDXGear1D0-2: Best accuracy 88.4888916015625 got in epoch 912      (is_descend=True)
+CQDXGear1D2-0: Best accuracy 86.55555725097656 got in epoch 924     (is_descend=False)
+CQDXGear1D2-0: Best accuracy 83.28888702392578 got in epoch 995     (is_descend=True)
+CQDXGear1D2-0: Best accuracy 88.24444580078125 got in epoch 476     (transfer_loss_weight=5)
+CQDXBear1D1-0: Best accuracy 80.09259033203125 got in epoch 349     (transfer_loss_weight=0, source only, adv working)
+
+CQDXBearFFT2-0: Best accuracy 61.574073791503906 got in epoch 3
+CQDXGear1D0-3: Best accuracy 35.33333206176758 got in epoch 6
+CQDXBearFFT0-2: Best accuracy 72.6851806640625 got in epoch 34
+CQDXBearFFT2-0: Best accuracy 61.574073791503906 got in epoch 3
+CQDXBearFFT1-0: Best accuracy 74.2592544555664 got in epoch 33
+CQDXBearFFT0-1: Best accuracy 97.22222137451172 got in epoch 77
+CQDXBear1D1-0: Best accuracy 80.09259033203125 got in epoch 349
+CQDXBear1D0-1: Best accuracy 89.12036895751953 got in epoch 114
+
+CQDXBearFFT0-1: Best accuracy 99.90740203857422 got in epoch 74
+CQDXBearFFT1-0: Best accuracy 99.90740203857422 got in epoch 231
+CQDXBearFFT0-2: Best accuracy 100.0 got in epoch 148
+CQDXBearFFT2-0: Best accuracy 99.2592544555664 got in epoch 450
+CQDXBearFFT1-2: Best accuracy 100.0 got in epoch 55
+CQDXBearFFT2-1: Best accuracy 100.0 got in epoch 46
+
+CQDXGearFFT0-2: Best accuracy 48.57777786254883 got in epoch 330
+CQDXGear1D0-2: Best accuracy 90.80000305175781 got in epoch 499     (cnn1d)
+CQDXGearFFT0-2: Best accuracy 48.57777786254883 got in epoch 330
+CQDXGearFFT0-2: Best accuracy 48.57777786254883 got in epoch 330
+CQDXGearFFT0-2: Best accuracy 55.28889083862305 got in epoch 66
+
+CQDXGear1D0-2: Best accuracy 90.82221984863281 got in epoch 498     (cnn1d_v2)
+CQDXGear1D0-2: Best accuracy 91.35556030273438 got in epoch 358 by cnn1d_v2     (cnn1d_v2, dropout=0.5)
+CQDXGear1D0-2: Best accuracy 91.71111297607422 got in epoch 437 by cnn1d_v2
+
+CQDXBear1D0-1: Best accuracy 99.8611068725586 got in epoch 334 by cnn1d_v2
+CQDXBear1D1-0: Best accuracy 99.6759262084961 got in epoch 444 by cnn1d_v2
+CQDXBear1D0-2: Best accuracy 66.89814758300781 got in epoch 7 by cnn1d_v2
+CQDXBear1D2-0: Best accuracy 99.6759262084961 got in epoch 367 by cnn1d_v2
+CQDXBear1D1-2: Best accuracy 100.0 got in epoch 94 by cnn1d_v2
+CQDXBear1D2-1: Best accuracy 100.0 got in epoch 136 by cnn1d_v2
+CQDXGear1D0-1: Best accuracy 96.31111145019531 got in epoch 269 by cnn1d_v2
+CQDXGear1D0-2: Best accuracy 91.71111297607422 got in epoch 437 by cnn1d_v2
+CQDXGear1D0-3: Best accuracy 37.844444274902344 got in epoch 61 by cnn1d_v2
+CQDXGear1D1-0: Best accuracy 95.28888702392578 got in epoch 466 by cnn1d_v2
+CQDXGear1D1-2: Best accuracy 96.64444732666016 got in epoch 451 by cnn1d_v2
+CQDXGear1D1-3: Best accuracy 40.06666564941406 got in epoch 33 by cnn1d_v2
+CQDXGear1D2-0: Best accuracy 89.13333129882812 got in epoch 448 by cnn1d_v2
+CQDXGear1D2-1: Best accuracy 96.42222595214844 got in epoch 457 by cnn1d_v2
+CQDXGear1D2-3: Best accuracy 47.266666412353516 got in epoch 324 by cnn1d_v2
+CQDXGear1D3-0: Best accuracy 46.31111145019531 got in epoch 412 by cnn1d_v2
+CQDXGear1D3-1: Best accuracy 51.755558013916016 got in epoch 392 by cnn1d_v2
+CQDXGear1D3-2: Best accuracy 53.488887786865234 got in epoch 307 by cnn1d_v2
+
+CQDXBear1D0-2: Best accuracy 66.89814758300781 got in epoch 7 by cnn1d_v2
+CQDXBearFFT0-2: Best accuracy 99.90740203857422 got in epoch 171 by cnn1d_v2
+CQDXBear1D0-2: Best accuracy 61.574073791503906 got in epoch 6 by cnn1d_v2
+CQDXBearFFT0-2: Best accuracy 99.90740203857422 got in epoch 132 by cnn1d_v2
+CQDXBear1D0-2: Best accuracy 66.7592544555664 got in epoch 30 by cnn1d_v2
+CQDXBearFFT0-2: Best accuracy 99.90740203857422 got in epoch 171 by cnn1d_v2
+CQDXBearFFT0-2: Best accuracy 100.00000762939453 got in epoch 31 by cnn1d_v2        (>100?, correct=120=len_of_dataset)
+CQDXBearFFT0-2: Best accuracy 99.90740203857422 got in epoch 171 by cnn1d_v2
+
+CQDXGearFFT0-2: Best accuracy 47.0667 got in epoch 203 by cnn1d_v2
+CQDXGearFFT2-0: Best accuracy 50.0889 got in epoch 475 by cnn1d_v2
+CQDXGear1D2-0: Best accuracy 89.1333 got in epoch 448 by cnn1d_v2
+CQDXGear1D0-2: Best accuracy 91.7111 got in epoch 437 by cnn1d_v2
+# 数据增强 begin：
+CQDXGear1D0-2: Best accuracy 94.2000 got in epoch 471 by cnn1d_v2
+CQDXBearFFT0-1: Best accuracy 99.9074 got in epoch 168 by cnn1d_v2
+CQDXBearFFT1-0: Best accuracy 99.8148 got in epoch 208 by cnn1d_v2
+CQDXBearFFT0-2: Best accuracy 99.9074 got in epoch 171 by cnn1d_v2
+CQDXBearFFT2-0: Best accuracy 71.0185 got in epoch 12 by cnn1d_v2
+CQDXBearFFT1-2: Best accuracy 100.0000 got in epoch 45 by cnn1d_v2
+CQDXBearFFT2-1: Best accuracy 100.0000 got in epoch 104 by cnn1d_v2
+CQDXGearFFT0-1: Best accuracy 78.3556 got in epoch 475 by cnn1d_v2
+CQDXGearFFT0-2: Best accuracy 60.6667 got in epoch 495 by cnn1d_v2
+CQDXGearFFT0-3: Best accuracy 26.7111 got in epoch 107 by cnn1d_v2
+CQDXGearFFT1-0: Best accuracy 79.1556 got in epoch 454 by cnn1d_v2
+CQDXGearFFT1-2: Best accuracy 79.6889 got in epoch 483 by cnn1d_v2
+CQDXGearFFT1-3: Best accuracy 26.7556 got in epoch 305 by cnn1d_v2
+CQDXGearFFT2-0: Best accuracy 59.1111 got in epoch 495 by cnn1d_v2
+CQDXGearFFT2-1: Best accuracy 78.7111 got in epoch 466 by cnn1d_v2
+CQDXGearFFT2-3: Best accuracy 27.9556 got in epoch 1 by cnn1d_v2
+CQDXGearFFT3-0: Best accuracy 29.5556 got in epoch 444 by cnn1d_v2
+CQDXGearFFT3-1: Best accuracy 29.3778 got in epoch 285 by cnn1d_v2
+CQDXGearFFT3-2: Best accuracy 32.0000 got in epoch 373 by cnn1d_v2
+# 数据增强 end 数据增强有提升效果，但是FFT不适用；
+# 数据增强，时域信号，在tv上测试 begin：
+train:test=9:1
+CQDXBear1D0-1: Best accuracy 99.5833 got in epoch 36 by cnn1d_v2
+CQDXBear1D1-0: Best accuracy 100.0000 got in epoch 64 by cnn1d_v2
+CQDXBear1D0-2: Best accuracy 100.0000 got in epoch 59 by cnn1d_v2
+CQDXBear1D2-0: Best accuracy 99.5833 got in epoch 138 by cnn1d_v2
+CQDXBear1D1-2: Best accuracy 100.0000 got in epoch 9 by cnn1d_v2
+CQDXBear1D2-1: Best accuracy 100.0000 got in epoch 35 by cnn1d_v2
+CQDXGear1D0-1: Best accuracy 99.6000 got in epoch 453 by cnn1d_v2
+CQDXGear1D0-2: Best accuracy 95.4000 got in epoch 339 by cnn1d_v2
+CQDXGear1D0-3: Best accuracy 32.8000 got in epoch 9 by cnn1d_v2
+CQDXGear1D1-0: Best accuracy 99.2000 got in epoch 384 by cnn1d_v2
+CQDXGear1D1-2: Best accuracy 99.8000 got in epoch 465 by cnn1d_v2
+CQDXGear1D1-3: Best accuracy 40.6000 got in epoch 41 by cnn1d_v2
+CQDXGear1D2-0: Best accuracy 88.2000 got in epoch 293 by cnn1d_v2
+CQDXGear1D2-1: Best accuracy 99.4000 got in epoch 403 by cnn1d_v2
+CQDXGear1D2-3: Best accuracy 50.8000 got in epoch 80 by cnn1d_v2
+CQDXGear1D3-0: Best accuracy 32.2000 got in epoch 30 by cnn1d_v2
+CQDXGear1D3-1: Best accuracy 37.6000 got in epoch 92 by cnn1d_v2
+CQDXGear1D3-2: Best accuracy 41.4000 got in epoch 57 by cnn1d_v2
+train:test=7:3
+CQDXGear1D0-1: Best accuracy 98.6667 got in epoch 482 by cnn1d_v2
+CQDXGear1D0-2: Best accuracy 93.1333 got in epoch 492 by cnn1d_v2
+CQDXGear1D0-3: Best accuracy 35.4000 got in epoch 267 by cnn1d_v2
+CQDXGear1D1-0: Best accuracy 99.1333 got in epoch 483 by cnn1d_v2
+CQDXGear1D1-2: Best accuracy 99.4000 got in epoch 440 by cnn1d_v2
+CQDXGear1D1-3: Best accuracy 42.3333 got in epoch 105 by cnn1d_v2
+CQDXGear1D2-0: Best accuracy 92.4667 got in epoch 491 by cnn1d_v2
+CQDXGear1D2-1: Best accuracy 98.9333 got in epoch 491 by cnn1d_v2
+CQDXGear1D2-3: Best accuracy 51.9333 got in epoch 89 by cnn1d_v2
+CQDXGear1D3-0: Best accuracy 34.2667 got in epoch 99 by cnn1d_v2
+CQDXGear1D3-1: Best accuracy 41.7333 got in epoch 128 by cnn1d_v2
+CQDXGear1D3-2: Best accuracy 43.0000 got in epoch 105 by cnn1d_v2
+train:test=7:3
+CQDXBear1D0-1: Best accuracy 99.7222 got in epoch 205 by cnn1d_v2
+CQDXBear1D1-0: Best accuracy 99.8611 got in epoch 149 by cnn1d_v2
+CQDXBear1D0-2: Best accuracy 61.5278 got in epoch 12 by cnn1d_v2
+CQDXBear1D2-0: Best accuracy 67.0833 got in epoch 6 by cnn1d_v2
+CQDXBear1D1-2: Best accuracy 100.0000 got in epoch 16 by cnn1d_v2
+CQDXBear1D2-1: Best accuracy 100.0000 got in epoch 188 by cnn1d_v2
+train:test=9:1
+CQDXBear1D0-2: Best accuracy 100.0000 got in epoch 59 by cnn1d_v2
+CQDXBear1D2-0: Best accuracy 99.5833 got in epoch 138 by cnn1d_v2
+train:test=8:2
+CQDXBear1D0-2: Best accuracy 62.0833 got in epoch 3 by cnn1d_v2
+CQDXBear1D2-0: Best accuracy 99.5833 got in epoch 146 by cnn1d_v2
+train:test=6:4
+CQDXBear1D0-2: Best accuracy 69.8958 got in epoch 10 by cnn1d_v2
+CQDXBear1D2-0: Best accuracy 95.8333 got in epoch 283 by cnn1d_v2
+train:test=7:3
+CQDXBear1D0-2: Best accuracy 61.5278 got in epoch 12 by cnn1d_v2
+CQDXBear1D2-0: Best accuracy 67.0833 got in epoch 6 by cnn1d_v2
+CQDXBear1D0-2: Best accuracy 68.3333 got in epoch 3 by cnn1d
+CQDXBear1D2-0: Best accuracy 74.8611 got in epoch 141 by cnn1d
+CQDXBear1D0-2: Best accuracy 73.4722 got in epoch 3 by resnet1d
+CQDXBear1D2-0: Best accuracy 64.7222 got in epoch 6 by resnet1d
+
+train:test=7:3, data enhanced
+CQDXBear1D0-1: Best accuracy 100.0000 got in epoch 157 by cnn1d_v2
+CQDXBear1D1-0: Best accuracy 100.0000 got in epoch 69 by cnn1d_v2
+CQDXBear1D0-2: Best accuracy 69.0278 got in epoch 14 by cnn1d_v2
+CQDXBear1D2-0: Best accuracy 99.8611 got in epoch 451 by cnn1d_v2
+CQDXBear1D1-2: Best accuracy 100.0000 got in epoch 71 by cnn1d_v2
+CQDXBear1D2-1: Best accuracy 100.0000 got in epoch 16 by cnn1d_v2
+CQDXBear1D0-1: Best accuracy 99.5833 got in epoch 70 by cnn1d
+CQDXBear1D1-0: Best accuracy 100.0000 got in epoch 48 by cnn1d
+CQDXBear1D0-2: Best accuracy 81.6667 got in epoch 2 by cnn1d
+CQDXBear1D2-0: Best accuracy 74.4444 got in epoch 10 by cnn1d
+CQDXBear1D1-2: Best accuracy 100.0000 got in epoch 15 by cnn1d
+CQDXBear1D2-1: Best accuracy 100.0000 got in epoch 26 by cnn1d
+CQDXBear1D0-1: Best accuracy 100.0000 got in epoch 78 by resnet1d
+CQDXBear1D1-0: Best accuracy 100.0000 got in epoch 20 by resnet1d
+CQDXBear1D0-2: Best accuracy 100.0000 got in epoch 46 by resnet1d
+CQDXBear1D2-0: Best accuracy 76.8056 got in epoch 67 by resnet1d
+CQDXBear1D1-2: Best accuracy 100.0000 got in epoch 12 by resnet1d
+CQDXBear1D2-1: Best accuracy 100.0000 got in epoch 31 by resnet1d
+
+CQDXGear1D0-1: Best accuracy 99.9333 got in epoch 243 by resnet1d
+CQDXGear1D0-2: Best accuracy 99.8000 got in epoch 453 by resnet1d
+CQDXGear1D0-3: Best accuracy 37.6667 got in epoch 31 by resnet1d
+CQDXGear1D1-0: Best accuracy 99.7333 got in epoch 283 by resnet1d
+CQDXGear1D1-2: Best accuracy 99.9333 got in epoch 289 by resnet1d
+CQDXGear1D1-3: Best accuracy 39.6667 got in epoch 495 by resnet1d
+CQDXGear1D2-0: Best accuracy 98.1333 got in epoch 432 by resnet1d
+CQDXGear1D2-1: Best accuracy 99.9333 got in epoch 398 by resnet1d
+CQDXGear1D2-3: Best accuracy 46.9333 got in epoch 64 by resnet1d
+CQDXGear1D3-0: Best accuracy 33.7333 got in epoch 47 by resnet1d
+CQDXGear1D3-1: Best accuracy 36.2000 got in epoch 453 by resnet1d
+CQDXGear1D3-2: Best accuracy 38.6000 got in epoch 255 by resnet1d
+CQDXGear1D0-1: Best accuracy 97.5333 got in epoch 403 by cnn1d
+CQDXGear1D0-2: Best accuracy 81.4000 got in epoch 428 by cnn1d
+CQDXGear1D0-3: Best accuracy 45.4000 got in epoch 144 by cnn1d
+CQDXGear1D1-0: Best accuracy 97.4667 got in epoch 464 by cnn1d
+CQDXGear1D1-2: Best accuracy 97.4667 got in epoch 482 by cnn1d
+CQDXGear1D1-3: Best accuracy 40.2000 got in epoch 73 by cnn1d
+CQDXGear1D2-0: Best accuracy 87.6000 got in epoch 481 by cnn1d
+CQDXGear1D2-1: Best accuracy 96.6000 got in epoch 370 by cnn1d
+CQDXGear1D2-3: Best accuracy 45.0000 got in epoch 343 by cnn1d
+CQDXGear1D3-0: Best accuracy 25.2667 got in epoch 32 by cnn1d
+CQDXGear1D3-1: Best accuracy 32.6667 got in epoch 245 by cnn1d
+CQDXGear1D3-2: Best accuracy 32.8000 got in epoch 226 by cnn1d
+CQDXGear1D0-1: Best accuracy 98.6667 got in epoch 482 by cnn1d_v2
+CQDXGear1D0-2: Best accuracy 93.1333 got in epoch 492 by cnn1d_v2
+CQDXGear1D0-3: Best accuracy 35.4000 got in epoch 267 by cnn1d_v2
+CQDXGear1D1-0: Best accuracy 99.1333 got in epoch 483 by cnn1d_v2
+CQDXGear1D1-2: Best accuracy 99.4000 got in epoch 440 by cnn1d_v2
+CQDXGear1D1-3: Best accuracy 42.3333 got in epoch 105 by cnn1d_v2
+CQDXGear1D2-0: Best accuracy 92.4667 got in epoch 491 by cnn1d_v2
+CQDXGear1D2-1: Best accuracy 98.9333 got in epoch 491 by cnn1d_v2
+CQDXGear1D2-3: Best accuracy 51.9333 got in epoch 89 by cnn1d_v2
+CQDXGear1D3-0: Best accuracy 34.2667 got in epoch 99 by cnn1d_v2
+CQDXGear1D3-1: Best accuracy 41.7333 got in epoch 128 by cnn1d_v2
+CQDXGear1D3-2: Best accuracy 43.0000 got in epoch 105 by cnn1d_v2
+train:test=8:2
+CQDXBear1D0-1: Best accuracy 100.0000 got in epoch 164 by cnn1d_v2
+CQDXBear1D1-0: Best accuracy 99.7917 got in epoch 188 by cnn1d_v2
+CQDXBear1D0-2: Best accuracy 100.0000 got in epoch 41 by cnn1d_v2
+CQDXBear1D2-0: Best accuracy 70.6250 got in epoch 23 by cnn1d_v2
+CQDXBear1D1-2: Best accuracy 100.0000 got in epoch 76 by cnn1d_v2
+CQDXBear1D2-1: Best accuracy 100.0000 got in epoch 17 by cnn1d_v2
+CQDXGear1D0-1: Best accuracy 98.7000 got in epoch 397 by cnn1d_v2
+CQDXGear1D0-2: Best accuracy 94.7000 got in epoch 456 by cnn1d_v2
+CQDXGear1D0-3: Best accuracy 33.9000 got in epoch 31 by cnn1d_v2
+CQDXGear1D1-0: Best accuracy 99.1000 got in epoch 448 by cnn1d_v2
+CQDXGear1D1-2: Best accuracy 99.4000 got in epoch 477 by cnn1d_v2
+CQDXGear1D1-3: Best accuracy 43.0000 got in epoch 221 by cnn1d_v2
+CQDXGear1D2-0: Best accuracy 93.7000 got in epoch 445 by cnn1d_v2
+CQDXGear1D2-1: Best accuracy 98.9000 got in epoch 459 by cnn1d_v2
+CQDXGear1D2-3: Best accuracy 46.2000 got in epoch 42 by cnn1d_v2
+CQDXGear1D3-0: Best accuracy 33.7000 got in epoch 76 by cnn1d_v2
+CQDXGear1D3-1: Best accuracy 41.8000 got in epoch 83 by cnn1d_v2
+CQDXGear1D3-2: Best accuracy 42.4000 got in epoch 426 by cnn1d_v2
+diao huan train and test of bear:
+8:2
+CQDXBear1D0-1: Best accuracy 100.0000 got in epoch 92 by cnn1d_v2
+CQDXBear1D1-0: Best accuracy 99.7022 got in epoch 491 by cnn1d_v2
+CQDXBear1D0-2: Best accuracy 100.0000 got in epoch 154 by cnn1d_v2
+CQDXBear1D2-0: Best accuracy 59.8015 got in epoch 13 by cnn1d_v2
+CQDXBear1D1-2: Best accuracy 100.0000 got in epoch 67 by cnn1d_v2
+CQDXBear1D2-1: Best accuracy 100.0000 got in epoch 32 by cnn1d_v2
+7:3
+CQDXBear1D0-1: Best accuracy 100.0000 got in epoch 92 by cnn1d_v2
+CQDXBear1D1-0: Best accuracy 99.7093 got in epoch 491 by cnn1d_v2
+CQDXBear1D0-2: Best accuracy 100.0000 got in epoch 154 by cnn1d_v2
+CQDXBear1D2-0: Best accuracy 60.7074 got in epoch 13 by cnn1d_v2
+CQDXBear1D1-2: Best accuracy 100.0000 got in epoch 67 by cnn1d_v2
+CQDXBear1D2-1: Best accuracy 100.0000 got in epoch 32 by cnn1d_v2
+# 9:1
+CQDXBear1D0-1: Best accuracy 100.0000 got in epoch 92 by cnn1d_v2
+CQDXBear1D1-0: Best accuracy 99.6950 got in epoch 491 by cnn1d_v2
+CQDXBear1D0-2: Best accuracy 100.0000 got in epoch 154 by cnn1d_v2
+CQDXBear1D2-0: Best accuracy 60.1423 got in epoch 13 by cnn1d_v2
+CQDXBear1D1-2: Best accuracy 100.0000 got in epoch 67 by cnn1d_v2
+CQDXBear1D2-1: Best accuracy 100.0000 got in epoch 32 by cnn1d_v2
+9:1
+CQDXBear1D0-1: Best accuracy 100.0000 got in epoch 262 by cnn1d_v2
+CQDXBear1D1-0: Best accuracy 100.0000 got in epoch 73 by cnn1d_v2
+CQDXBear1D0-2: Best accuracy 100.0000 got in epoch 29 by cnn1d_v2
+CQDXBear1D2-0: Best accuracy 97.9167 got in epoch 485 by cnn1d_v2
+CQDXBear1D1-2: Best accuracy 100.0000 got in epoch 15 by cnn1d_v2
+CQDXBear1D2-1: Best accuracy 100.0000 got in epoch 6 by cnn1d_v2
+8:2
+CQDXBear1D0-1: Best accuracy 100.0000 got in epoch 164 by cnn1d_v2
+CQDXBear1D1-0: Best accuracy 99.7917 got in epoch 188 by cnn1d_v2
+CQDXBear1D0-2: Best accuracy 100.0000 got in epoch 41 by cnn1d_v2
+CQDXBear1D2-0: Best accuracy 70.6250 got in epoch 23 by cnn1d_v2
+CQDXBear1D1-2: Best accuracy 100.0000 got in epoch 76 by cnn1d_v2
+CQDXBear1D2-1: Best accuracy 100.0000 got in epoch 17 by cnn1d_v2
+7:3
+CQDXBear1D0-1: Best accuracy 100.0000 got in epoch 157 by cnn1d_v2
+CQDXBear1D1-0: Best accuracy 100.0000 got in epoch 69 by cnn1d_v2
+CQDXBear1D0-2: Best accuracy 69.0278 got in epoch 14 by cnn1d_v2
+CQDXBear1D2-0: Best accuracy 99.8611 got in epoch 451 by cnn1d_v2
+CQDXBear1D1-2: Best accuracy 100.0000 got in epoch 71 by cnn1d_v2
+CQDXBear1D2-1: Best accuracy 100.0000 got in epoch 16 by cnn1d_v2
+6:4
+CQDXBear1D0-1: Best accuracy 99.8958 got in epoch 154 by cnn1d_v2
+CQDXBear1D1-0: Best accuracy 99.8958 got in epoch 132 by cnn1d_v2
+CQDXBear1D0-2: Best accuracy 70.5208 got in epoch 2 by cnn1d_v2
+CQDXBear1D2-0: Best accuracy 99.8958 got in epoch 387 by cnn1d_v2
+CQDXBear1D1-2: Best accuracy 100.0000 got in epoch 53 by cnn1d_v2
+CQDXBear1D2-1: Best accuracy 100.0000 got in epoch 30 by cnn1d_v2
+5:5
+CQDXBear1D0-1: Best accuracy 99.7500 got in epoch 180 by cnn1d_v2
+CQDXBear1D1-0: Best accuracy 99.9167 got in epoch 126 by cnn1d_v2
+CQDXBear1D0-2: Best accuracy 59.8333 got in epoch 3 by cnn1d_v2
+CQDXBear1D2-0: Best accuracy 66.9167 got in epoch 28 by cnn1d_v2
+CQDXBear1D1-2: Best accuracy 100.0000 got in epoch 22 by cnn1d_v2
+CQDXBear1D2-1: Best accuracy 100.0000 got in epoch 57 by cnn1d_v2
+9:1
+CQDXBear1D0-1: Best accuracy 100.0000 got in epoch 262 by cnn1d_v2
+CQDXBear1D1-0: Best accuracy 100.0000 got in epoch 73 by cnn1d_v2
+CQDXBear1D0-2: Best accuracy 100.0000 got in epoch 29 by cnn1d_v2
+CQDXBear1D2-0: Best accuracy 97.9167 got in epoch 485 by cnn1d_v2
+CQDXBear1D1-2: Best accuracy 100.0000 got in epoch 15 by cnn1d_v2
+CQDXBear1D2-1: Best accuracy 100.0000 got in epoch 6 by cnn1d_v2
+CQDXGear1D0-1: Best accuracy 99.6000 got in epoch 453 by cnn1d_v2
+CQDXGear1D0-2: Best accuracy 95.4000 got in epoch 339 by cnn1d_v2
+CQDXGear1D0-3: Best accuracy 32.8000 got in epoch 9 by cnn1d_v2
+CQDXGear1D1-0: Best accuracy 99.2000 got in epoch 384 by cnn1d_v2
+CQDXGear1D1-2: Best accuracy 99.8000 got in epoch 465 by cnn1d_v2
+CQDXGear1D1-3: Best accuracy 40.6000 got in epoch 41 by cnn1d_v2
+CQDXGear1D2-0: Best accuracy 88.2000 got in epoch 293 by cnn1d_v2
+CQDXGear1D2-1: Best accuracy 99.4000 got in epoch 403 by cnn1d_v2
+CQDXGear1D2-3: Best accuracy 50.8000 got in epoch 80 by cnn1d_v2
+CQDXGear1D3-0: Best accuracy 32.2000 got in epoch 30 by cnn1d_v2
+CQDXGear1D3-1: Best accuracy 37.6000 got in epoch 92 by cnn1d_v2
+CQDXGear1D3-2: Best accuracy 41.4000 got in epoch 57 by cnn1d_v2
+CQDXBear1D0-1: Best accuracy 100.0000 got in epoch 138 by cnn1d
+CQDXBear1D1-0: Best accuracy 100.0000 got in epoch 17 by cnn1d
+CQDXBear1D0-2: Best accuracy 100.0000 got in epoch 22 by cnn1d
+CQDXBear1D2-0: Best accuracy 78.3333 got in epoch 6 by cnn1d
+CQDXBear1D1-2: Best accuracy 100.0000 got in epoch 7 by cnn1d
+CQDXBear1D2-1: Best accuracy 100.0000 got in epoch 11 by cnn1d
+CQDXGear1D0-1: Best accuracy 98.0000 got in epoch 479 by cnn1d
+CQDXGear1D0-2: Best accuracy 90.2000 got in epoch 393 by cnn1d
+CQDXGear1D0-3: Best accuracy 35.8000 got in epoch 363 by cnn1d
+CQDXGear1D1-0: Best accuracy 98.2000 got in epoch 444 by cnn1d
+CQDXGear1D1-2: Best accuracy 98.2000 got in epoch 448 by cnn1d
+CQDXGear1D1-3: Best accuracy 41.0000 got in epoch 133 by cnn1d
+CQDXGear1D2-0: Best accuracy 85.0000 got in epoch 486 by cnn1d
+CQDXGear1D2-1: Best accuracy 98.8000 got in epoch 439 by cnn1d
+CQDXGear1D2-3: Best accuracy 43.0000 got in epoch 249 by cnn1d
+CQDXGear1D3-0: Best accuracy 30.0000 got in epoch 143 by cnn1d
+CQDXGear1D3-1: Best accuracy 33.2000 got in epoch 47 by cnn1d
+CQDXGear1D3-2: Best accuracy 42.0000 got in epoch 154 by cnn1d
+CQDXBear1D0-1: Best accuracy 100.0000 got in epoch 73 by resnet1d
+CQDXBear1D1-0: Best accuracy 100.0000 got in epoch 10 by resnet1d
+CQDXBear1D0-2: Best accuracy 100.0000 got in epoch 16 by resnet1d
+CQDXBear1D2-0: Best accuracy 69.1667 got in epoch 3 by resnet1d
+CQDXBear1D1-2: Best accuracy 100.0000 got in epoch 7 by resnet1d
+CQDXBear1D2-1: Best accuracy 100.0000 got in epoch 25 by resnet1d
+CQDXGear1D0-1: Best accuracy 100.0000 got in epoch 144 by resnet1d
+CQDXGear1D0-2: Best accuracy 100.0000 got in epoch 351 by resnet1d
+CQDXGear1D0-3: Best accuracy 32.8000 got in epoch 117 by resnet1d
+CQDXGear1D1-0: Best accuracy 100.0000 got in epoch 183 by resnet1d
+CQDXGear1D1-2: Best accuracy 100.0000 got in epoch 104 by resnet1d
+CQDXGear1D1-3: Best accuracy 37.4000 got in epoch 276 by resnet1d
+CQDXGear1D2-0: Best accuracy 99.2000 got in epoch 480 by resnet1d
+CQDXGear1D2-1: Best accuracy 100.0000 got in epoch 349 by resnet1d
+CQDXGear1D2-3: Best accuracy 48.6000 got in epoch 180 by resnet1d
+CQDXGear1D3-0: Best accuracy 33.8000 got in epoch 185 by resnet1d
+CQDXGear1D3-1: Best accuracy 35.4000 got in epoch 35 by resnet1d
+CQDXGear1D3-2: Best accuracy 39.0000 got in epoch 19 by resnet1d
+7：3
+CQDXBear1D0-1: Best accuracy 100.0000 got in epoch 78 by resnet1d
+CQDXBear1D1-0: Best accuracy 100.0000 got in epoch 20 by resnet1d
+CQDXBear1D0-2: Best accuracy 100.0000 got in epoch 46 by resnet1d
+CQDXBear1D2-0: Best accuracy 76.8056 got in epoch 67 by resnet1d
+CQDXBear1D1-2: Best accuracy 100.0000 got in epoch 12 by resnet1d
+CQDXBear1D2-1: Best accuracy 100.0000 got in epoch 31 by resnet1d
+CQDXGear1D0-1: Best accuracy 99.9333 got in epoch 243 by resnet1d
+7：3
+CQDXBearFFT0-1: Best accuracy 100.0000 got in epoch 107 by resnet1d
+CQDXBearFFT1-0: Best accuracy 100.0000 got in epoch 32 by resnet1d
+CQDXBearFFT0-2: Best accuracy 76.3889 got in epoch 10 by resnet1d       0-2？？？
+CQDXBearFFT2-0: Best accuracy 100.0000 got in epoch 60 by resnet1d
+CQDXBearFFT1-2: Best accuracy 100.0000 got in epoch 14 by resnet1d
+CQDXBearFFT2-1: Best accuracy 100.0000 got in epoch 25 by resnet1d
+CQDXGearFFT0-1: Best accuracy 88.8000 got in epoch 448 by resnet1d
+CQDXGearFFT0-2: Best accuracy 75.0667 got in epoch 395 by resnet1d
+CQDXGearFFT0-3: Best accuracy 28.6667 got in epoch 296 by resnet1d
+CQDXGearFFT1-0: Best accuracy 92.2667 got in epoch 347 by resnet1d
+CQDXGearFFT1-2: Best accuracy 92.0000 got in epoch 412 by resnet1d
+CQDXGearFFT1-3: Best accuracy 26.6667 got in epoch 435 by resnet1d
+CQDXGearFFT2-0: Best accuracy 78.4000 got in epoch 487 by resnet1d
+CQDXGearFFT2-1: Best accuracy 92.2667 got in epoch 434 by resnet1d
+CQDXGearFFT2-3: Best accuracy 29.7333 got in epoch 11 by resnet1d
+CQDXGearFFT3-0: Best accuracy 29.2000 got in epoch 243 by resnet1d
+CQDXGearFFT3-1: Best accuracy 30.9333 got in epoch 94 by resnet1d
+CQDXGearFFT3-2: Best accuracy 36.0000 got in epoch 305 by resnet1d
+CQDXBear1D0-1: Best accuracy 100.0000 got in epoch 78 by resnet1d
+CQDXBear1D1-0: Best accuracy 100.0000 got in epoch 20 by resnet1d
+CQDXBear1D0-2: Best accuracy 100.0000 got in epoch 46 by resnet1d
+CQDXBear1D2-0: Best accuracy 76.8056 got in epoch 67 by resnet1d        2-0？？？
+CQDXBear1D1-2: Best accuracy 100.0000 got in epoch 12 by resnet1d
+CQDXBear1D2-1: Best accuracy 100.0000 got in epoch 31 by resnet1d
+CQDXGear1D0-1: Best accuracy 99.9333 got in epoch 243 by resnet1d
+CQDXGear1D0-2: Best accuracy 99.8000 got in epoch 453 by resnet1d
+CQDXGear1D0-3: Best accuracy 37.6667 got in epoch 31 by resnet1d
+CQDXGear1D1-0: Best accuracy 99.7333 got in epoch 283 by resnet1d
+CQDXGear1D1-2: Best accuracy 99.9333 got in epoch 289 by resnet1d
+CQDXGear1D1-3: Best accuracy 39.6667 got in epoch 495 by resnet1d
+CQDXGear1D2-0: Best accuracy 98.1333 got in epoch 432 by resnet1d
+CQDXGear1D2-1: Best accuracy 99.9333 got in epoch 398 by resnet1d
+CQDXGear1D2-3: Best accuracy 46.9333 got in epoch 64 by resnet1d
+CQDXGear1D3-0: Best accuracy 33.7333 got in epoch 47 by resnet1d
+CQDXGear1D3-1: Best accuracy 36.2000 got in epoch 453 by resnet1d
+CQDXGear1D3-2: Best accuracy 38.6000 got in epoch 255 by resnet1d
+FFT signal size=512:
+CQDXBearFFT0-1: Best accuracy 100.0000 got in epoch 48 by resnet1d
+CQDXBearFFT1-0: Best accuracy 100.0000 got in epoch 37 by resnet1d
+CQDXBearFFT0-2: Best accuracy 100.0000 got in epoch 341 by resnet1d
+CQDXBearFFT2-0: Best accuracy 99.8611 got in epoch 44 by resnet1d
+CQDXBearFFT1-2: Best accuracy 100.0000 got in epoch 22 by resnet1d
+CQDXBearFFT2-1: Best accuracy 100.0000 got in epoch 14 by resnet1d
+CQDXGearFFT0-1: Best accuracy 72.9333 got in epoch 385 by resnet1d
+CQDXGearFFT0-2: Best accuracy 52.8667 got in epoch 424 by resnet1d
+CQDXGearFFT0-3: Best accuracy 29.4667 got in epoch 338 by resnet1d
+CQDXGearFFT1-0: Best accuracy 74.0667 got in epoch 472 by resnet1d
+CQDXGearFFT1-2: Best accuracy 78.2000 got in epoch 457 by resnet1d
+CQDXGearFFT1-3: Best accuracy 27.0667 got in epoch 12 by resnet1d
+CQDXGearFFT2-0: Best accuracy 57.3333 got in epoch 468 by resnet1d
+CQDXGearFFT2-1: Best accuracy 73.4000 got in epoch 337 by resnet1d
+CQDXGearFFT2-3: Best accuracy 27.1333 got in epoch 178 by resnet1d
+CQDXGearFFT3-0: Best accuracy 25.0000 got in epoch 27 by resnet1d
+CQDXGearFFT3-1: Best accuracy 27.4000 got in epoch 23 by resnet1d
+CQDXGearFFT3-2: Best accuracy 29.1333 got in epoch 23 by resnet1d
+CQDXBearFFT0-1: Best accuracy 99.5833 got in epoch 105 by cnn1d
+CQDXBearFFT1-0: Best accuracy 99.7222 got in epoch 79 by cnn1d
+CQDXBearFFT0-2: Best accuracy 75.5556 got in epoch 4 by cnn1d
+CQDXBearFFT2-0: Best accuracy 100.0000 got in epoch 128 by cnn1d
+CQDXBearFFT1-2: Best accuracy 100.0000 got in epoch 42 by cnn1d
+CQDXBearFFT2-1: Best accuracy 99.8611 got in epoch 96 by cnn1d
+CQDXGearFFT0-1: Best accuracy 55.0000 got in epoch 456 by cnn1d
+CQDXGearFFT0-2: Best accuracy 44.3333 got in epoch 178 by cnn1d
+CQDXGearFFT0-3: Best accuracy 30.4000 got in epoch 317 by cnn1d
+CQDXGearFFT1-0: Best accuracy 58.3333 got in epoch 470 by cnn1d
+CQDXGearFFT1-2: Best accuracy 53.8667 got in epoch 456 by cnn1d
+CQDXGearFFT1-3: Best accuracy 28.8000 got in epoch 240 by cnn1d
+CQDXGearFFT2-0: Best accuracy 46.1333 got in epoch 445 by cnn1d
+CQDXGearFFT2-1: Best accuracy 57.0000 got in epoch 439 by cnn1d
+CQDXGearFFT2-3: Best accuracy 29.2667 got in epoch 198 by cnn1d
+CQDXGearFFT3-1: Best accuracy 26.3333 got in epoch 118 by cnn1d
+CQDXGearFFT3-2: Best accuracy 29.2667 got in epoch 412 by cnn1d
+CQDXBearFFT0-1: Best accuracy 100.0000 got in epoch 184 by cnn1d_v2
+CQDXBearFFT1-0: Best accuracy 100.0000 got in epoch 83 by cnn1d_v2
+CQDXBearFFT0-2: Best accuracy 100.0000 got in epoch 147 by cnn1d_v2
+CQDXBearFFT2-0: Best accuracy 70.4167 got in epoch 12 by cnn1d_v2
+CQDXBearFFT1-2: Best accuracy 100.0000 got in epoch 41 by cnn1d_v2
+CQDXBearFFT2-1: Best accuracy 100.0000 got in epoch 52 by cnn1d_v2
+CQDXGearFFT0-1: Best accuracy 57.4000 got in epoch 469 by cnn1d_v2
+CQDXGearFFT0-2: Best accuracy 45.3333 got in epoch 387 by cnn1d_v2
+CQDXGearFFT0-3: Best accuracy 26.7333 got in epoch 52 by cnn1d_v2
+CQDXGearFFT1-0: Best accuracy 62.4667 got in epoch 499 by cnn1d_v2
+CQDXGearFFT1-2: Best accuracy 62.3333 got in epoch 497 by cnn1d_v2
+CQDXGearFFT1-3: Best accuracy 28.2667 got in epoch 191 by cnn1d_v2
+CQDXGearFFT2-0: Best accuracy 49.8667 got in epoch 381 by cnn1d_v2
+CQDXGearFFT2-1: Best accuracy 63.2000 got in epoch 454 by cnn1d_v2
+CQDXGearFFT2-3: Best accuracy 28.8667 got in epoch 35 by cnn1d_v2
+CQDXGearFFT3-0: Best accuracy 24.2667 got in epoch 6 by cnn1d_v2
+CQDXGearFFT3-1: Best accuracy 27.4000 got in epoch 28 by cnn1d_v2
+CQDXGearFFT3-2: Best accuracy 27.8667 got in epoch 189 by cnn1d_v2
+7:3
+CQDXBearFFT0-1: Best accuracy 100.0000 got in epoch 48 by resnet1d
+CQDXBearFFT1-0: Best accuracy 100.0000 got in epoch 37 by resnet1d
+CQDXBearFFT0-2: Best accuracy 100.0000 got in epoch 341 by resnet1d
+CQDXBearFFT2-0: Best accuracy 99.8611 got in epoch 44 by resnet1d
+CQDXBearFFT1-2: Best accuracy 100.0000 got in epoch 22 by resnet1d
+CQDXBearFFT2-1: Best accuracy 100.0000 got in epoch 14 by resnet1d
+CQDXGearFFT0-1: Best accuracy 88.8000 got in epoch 448 by resnet1d
+CQDXGearFFT0-2: Best accuracy 75.0667 got in epoch 395 by resnet1d
+CQDXGearFFT0-3: Best accuracy 28.6667 got in epoch 296 by resnet1d
+CQDXGearFFT1-0: Best accuracy 92.2667 got in epoch 347 by resnet1d
+CQDXGearFFT1-2: Best accuracy 92.0000 got in epoch 412 by resnet1d
+CQDXGearFFT1-3: Best accuracy 26.6667 got in epoch 435 by resnet1d
+CQDXGearFFT2-0: Best accuracy 78.4000 got in epoch 487 by resnet1d
+CQDXGearFFT2-1: Best accuracy 92.2667 got in epoch 434 by resnet1d
+CQDXGearFFT2-3: Best accuracy 29.7333 got in epoch 11 by resnet1d
+CQDXGearFFT3-0: Best accuracy 29.2000 got in epoch 243 by resnet1d
+CQDXGearFFT3-1: Best accuracy 30.9333 got in epoch 94 by resnet1d
+CQDXGearFFT3-2: Best accuracy 36.0000 got in epoch 305 by resnet1d
+9:1
+CQDXBearFFT0-1: Best accuracy 100.0000 got in epoch 70 by resnet1d
+CQDXBearFFT1-0: Best accuracy 100.0000 got in epoch 18 by resnet1d
+CQDXBearFFT0-2: Best accuracy 100.0000 got in epoch 72 by resnet1d
+CQDXBearFFT2-0: Best accuracy 100.0000 got in epoch 24 by resnet1d
+CQDXBearFFT1-2: Best accuracy 100.0000 got in epoch 7 by resnet1d
+CQDXBearFFT2-1: Best accuracy 100.0000 got in epoch 14 by resnet1d
+CQDXGearFFT0-1: Best accuracy 93.2000 got in epoch 483 by resnet1d
+CQDXGearFFT0-2: Best accuracy 82.4000 got in epoch 480 by resnet1d
+CQDXGearFFT0-3: Best accuracy 28.4000 got in epoch 62 by resnet1d
+CQDXGearFFT1-0: Best accuracy 94.0000 got in epoch 434 by resnet1d
+CQDXGearFFT1-2: Best accuracy 96.0000 got in epoch 403 by resnet1d
+CQDXGearFFT1-3: Best accuracy 28.4000 got in epoch 9 by resnet1d
+CQDXGearFFT2-0: Best accuracy 82.8000 got in epoch 367 by resnet1d
+CQDXGearFFT2-1: Best accuracy 94.4000 got in epoch 353 by resnet1d
+CQDXGearFFT2-3: Best accuracy 30.0000 got in epoch 6 by resnet1d
+CQDXGearFFT3-0: Best accuracy 34.0000 got in epoch 147 by resnet1d
+CQDXGearFFT3-1: Best accuracy 34.8000 got in epoch 198 by resnet1d
+CQDXGearFFT3-2: Best accuracy 34.8000 got in epoch 88 by resnet1d
+# time对于gear效果好；FFT对于bear效果好；7：3：
+CQDXBearFFT0-1: Best accuracy 100.0000 got in epoch 48 by resnet1d
+CQDXBearFFT1-0: Best accuracy 100.0000 got in epoch 37 by resnet1d
+CQDXBearFFT0-2: Best accuracy 100.0000 got in epoch 341 by resnet1d
+CQDXBearFFT2-0: Best accuracy 99.8611 got in epoch 44 by resnet1d
+CQDXBearFFT1-2: Best accuracy 100.0000 got in epoch 22 by resnet1d
+CQDXBearFFT2-1: Best accuracy 100.0000 got in epoch 14 by resnet1d
+CQDXGear1D0-1: Best accuracy 99.9333 got in epoch 243 by resnet1d
+CQDXGear1D0-2: Best accuracy 99.8000 got in epoch 453 by resnet1d
+CQDXGear1D0-3: Best accuracy 37.6667 got in epoch 31 by resnet1d
+CQDXGear1D1-0: Best accuracy 99.7333 got in epoch 283 by resnet1d
+CQDXGear1D1-2: Best accuracy 99.9333 got in epoch 289 by resnet1d
+CQDXGear1D1-3: Best accuracy 39.6667 got in epoch 495 by resnet1d
+CQDXGear1D2-0: Best accuracy 98.1333 got in epoch 432 by resnet1d
+CQDXGear1D2-1: Best accuracy 99.9333 got in epoch 398 by resnet1d
+CQDXGear1D2-3: Best accuracy 46.9333 got in epoch 64 by resnet1d
+CQDXGear1D3-0: Best accuracy 33.7333 got in epoch 47 by resnet1d
+CQDXGear1D3-1: Best accuracy 36.2000 got in epoch 453 by resnet1d
+CQDXGear1D3-2: Best accuracy 38.6000 got in epoch 255 by resnet1d
+CWRU time domain sequence better; 7:3
+CWRUBear1D0-1: Best accuracy 100.0000 got in epoch 376 by resnet1d
+CWRUBear1D0-2: Best accuracy 98.1818 got in epoch 100 by resnet1d
+CWRUBear1D0-3: Best accuracy 98.7879 got in epoch 254 by resnet1d
+CWRUBear1D1-0: Best accuracy 96.6667 got in epoch 280 by resnet1d
+CWRUBear1D1-2: Best accuracy 100.0000 got in epoch 83 by resnet1d
+CWRUBear1D1-3: Best accuracy 99.3939 got in epoch 370 by resnet1d
+CWRUBear1D2-0: Best accuracy 95.7576 got in epoch 140 by resnet1d
+CWRUBear1D2-1: Best accuracy 98.7879 got in epoch 419 by resnet1d
+CWRUBear1D2-3: Best accuracy 99.0909 got in epoch 273 by resnet1d
+CWRUBear1D3-0: Best accuracy 86.0606 got in epoch 76 by resnet1d
+CWRUBear1D3-1: Best accuracy 89.3939 got in epoch 262 by resnet1d
+CWRUBear1D3-2: Best accuracy 99.0909 got in epoch 448 by resnet1d
+CWRUBearFFT0-1: Best accuracy 96.6667 got in epoch 341 by resnet1d
+CWRUBearFFT0-2: Best accuracy 97.5758 got in epoch 443 by resnet1d
+CWRUBearFFT0-3: Best accuracy 87.2727 got in epoch 489 by resnet1d
+CWRUBearFFT1-0: Best accuracy 93.6364 got in epoch 377 by resnet1d
+CWRUBearFFT1-2: Best accuracy 98.7879 got in epoch 425 by resnet1d
+CWRUBearFFT1-3: Best accuracy 93.9394 got in epoch 184 by resnet1d
+CWRUBearFFT2-0: Best accuracy 92.1212 got in epoch 424 by resnet1d
+CWRUBearFFT2-1: Best accuracy 96.6667 got in epoch 322 by resnet1d
+CWRUBearFFT2-3: Best accuracy 97.8788 got in epoch 135 by resnet1d
+CWRUBearFFT3-0: Best accuracy 87.2727 got in epoch 307 by resnet1d
+CWRUBearFFT3-1: Best accuracy 91.2121 got in epoch 73 by resnet1d
+CWRUBearFFT3-2: Best accuracy 96.6667 got in epoch 357 by resnet1d
+

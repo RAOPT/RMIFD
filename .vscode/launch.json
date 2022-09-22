@@ -1,0 +1,84 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: 当前文件",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "train_transfer",
+            "type": "python",
+            "request": "launch",
+            "program": "train_transfer.py",
+            "console": "integratedTerminal",
+            "justMyCode": false,
+            "args": [
+                "--config",
+                "Shell_yaml/dann.yaml",
+                "--dataset",
+                "CWRUBear1DaFFT",
+                "--data_dir",
+                "../../Dataset/For_the_strange_Benchmark/CWRU",
+                "--src_wc",
+                "2",
+                "--tgt_wc",
+                "3",
+                "--acc_preview",
+                "Best_acc_dan.txt",
+                "--n_epoch",
+                "5"
+            ]
+        },
+        {
+            "name": "train_transfer_tmp",
+            "type": "python",
+            "request": "launch",
+            "program": "train_transfer_tmp.py",
+            "console": "integratedTerminal",
+            "justMyCode": false,
+            "args": [
+                "--config",
+                "Shell_yaml/dann.yaml",
+                "--dataset",
+                "CWRUBear1D",
+                "--data_dir",
+                "../../Dataset/For_the_strange_Benchmark/CWRU",
+                "--src_wc",
+                "0",
+                "--tgt_wc",
+                "1",
+                "--acc_preview",
+                "Best_acc_dan.txt",
+                "--n_epoch",
+                "5"
+            ]
+        },
+        {
+            "name": "train_basic",
+            "type": "python",
+            "request": "launch",
+            "program": "train_basic.py",
+            "console": "integratedTerminal",
+            "justMyCode": false,
+            "args": [
+                "--config",
+                "Shell_yaml/dann.yaml",
+                "--dataset",
+                "CWRUBear48K1D",
+                "--data_dir",
+                "../../Dataset/For_the_strange_Benchmark/CWRU48K",
+                "--src_wc",
+                "0",
+                "--tgt_wc",
+                "0",
+            ]
+        }
+    ]
+}

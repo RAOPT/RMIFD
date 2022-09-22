@@ -1,0 +1,360 @@
+mmd:
+CWRUBearFFT0-1: Best accuracy 94.4444 got in epoch 339 by cnn1d
+CWRUBearFFT0-2: Best accuracy 94.7222 got in epoch 63 by cnn1d
+CWRUBearFFT0-3: Best accuracy 87.5000 got in epoch 81 by cnn1d
+CWRUBearFFT1-0: Best accuracy 93.3333 got in epoch 197 by cnn1d
+CWRUBearFFT1-2: Best accuracy 97.5000 got in epoch 84 by cnn1d
+CWRUBearFFT1-3: Best accuracy 90.5556 got in epoch 84 by cnn1d
+CWRUBearFFT2-0: Best accuracy 88.8889 got in epoch 211 by cnn1d
+CWRUBearFFT2-1: Best accuracy 93.6111 got in epoch 405 by cnn1d
+CWRUBearFFT2-3: Best accuracy 95.5556 got in epoch 243 by cnn1d
+CWRUBearFFT3-0: Best accuracy 88.3333 got in epoch 266 by cnn1d
+CWRUBearFFT3-1: Best accuracy 90.0000 got in epoch 122 by cnn1d
+CWRUBearFFT3-2: Best accuracy 96.3889 got in epoch 266 by cnn1d
+adv:
+CWRUBearFFT0-1: Best accuracy 94.4444 got in epoch 91 by cnn1d
+CWRUBearFFT0-2: Best accuracy 93.6111 got in epoch 128 by cnn1d
+CWRUBearFFT0-3: Best accuracy 85.5556 got in epoch 67 by cnn1d
+CWRUBearFFT1-0: Best accuracy 93.3333 got in epoch 488 by cnn1d
+CWRUBearFFT1-2: Best accuracy 97.7778 got in epoch 343 by cnn1d
+CWRUBearFFT1-3: Best accuracy 90.5556 got in epoch 405 by cnn1d
+CWRUBearFFT2-0: Best accuracy 89.7222 got in epoch 97 by cnn1d
+CWRUBearFFT2-1: Best accuracy 93.0556 got in epoch 80 by cnn1d
+CWRUBearFFT2-3: Best accuracy 95.0000 got in epoch 339 by cnn1d
+CWRUBearFFT3-0: Best accuracy 88.6111 got in epoch 140 by cnn1d
+CWRUBearFFT3-1: Best accuracy 88.6111 got in epoch 55 by cnn1d
+CWRUBearFFT3-2: Best accuracy 95.8333 got in epoch 120 by cnn1d
+lmmd:
+CWRUBearFFT0-1: Best accuracy 85.2778 got in epoch 28 by cnn1d
+CWRUBearFFT0-2: Best accuracy 89.1667 got in epoch 28 by cnn1d
+CWRUBearFFT0-3: Best accuracy 85.8333 got in epoch 66 by cnn1d
+CWRUBearFFT1-0: Best accuracy 87.7778 got in epoch 28 by cnn1d
+CWRUBearFFT1-2: Best accuracy 89.4444 got in epoch 48 by cnn1d
+CWRUBearFFT1-3: Best accuracy 83.8889 got in epoch 20 by cnn1d
+CWRUBearFFT2-0: Best accuracy 87.2222 got in epoch 76 by cnn1d
+CWRUBearFFT2-1: Best accuracy 88.0556 got in epoch 28 by cnn1d
+CWRUBearFFT2-3: Best accuracy 90.8333 got in epoch 69 by cnn1d
+CWRUBearFFT3-0: Best accuracy 86.6667 got in epoch 19 by cnn1d
+CWRUBearFFT3-1: Best accuracy 82.7778 got in epoch 20 by cnn1d
+CWRUBearFFT3-2: Best accuracy 91.3889 got in epoch 19 by cnn1d
+coral:
+CWRUBearFFT0-1: Best accuracy 94.4444 got in epoch 339 by cnn1d
+CWRUBearFFT0-2: Best accuracy 94.7222 got in epoch 63 by cnn1d
+CWRUBearFFT0-3: Best accuracy 87.5000 got in epoch 81 by cnn1d
+CWRUBearFFT1-0: Best accuracy 93.3333 got in epoch 197 by cnn1d
+CWRUBearFFT1-2: Best accuracy 96.9444 got in epoch 161 by cnn1d
+CWRUBearFFT1-3: Best accuracy 90.5556 got in epoch 84 by cnn1d
+CWRUBearFFT2-0: Best accuracy 88.8889 got in epoch 211 by cnn1d
+CWRUBearFFT2-1: Best accuracy 93.6111 got in epoch 405 by cnn1d
+CWRUBearFFT2-3: Best accuracy 95.5556 got in epoch 243 by cnn1d
+CWRUBearFFT3-0: Best accuracy 88.3333 got in epoch 266 by cnn1d
+CWRUBearFFT3-1: Best accuracy 90.5556 got in epoch 242 by cnn1d
+CWRUBearFFT3-2: Best accuracy 96.1111 got in epoch 91 by cnn1d
+bnm:
+CWRUBearFFT0-1: Best accuracy 97.2222 got in epoch 236 by cnn1d
+CWRUBearFFT0-2: Best accuracy 95.5556 got in epoch 202 by cnn1d
+CWRUBearFFT0-3: Best accuracy 92.2222 got in epoch 223 by cnn1d
+CWRUBearFFT1-0: Best accuracy 94.7222 got in epoch 408 by cnn1d
+CWRUBearFFT1-2: Best accuracy 98.6111 got in epoch 485 by cnn1d
+CWRUBearFFT1-3: Best accuracy 95.2778 got in epoch 428 by cnn1d
+CWRUBearFFT2-0: Best accuracy 92.2222 got in epoch 328 by cnn1d
+CWRUBearFFT2-1: Best accuracy 95.0000 got in epoch 473 by cnn1d
+CWRUBearFFT2-3: Best accuracy 96.9444 got in epoch 245 by cnn1d
+CWRUBearFFT3-0: Best accuracy 93.8889 got in epoch 249 by cnn1d
+CWRUBearFFT3-1: Best accuracy 95.2778 got in epoch 351 by cnn1d
+CWRUBearFFT3-2: Best accuracy 96.6667 got in epoch 56 by cnn1d
+mmd_adv:
+CWRUBearFFT0-1: Best accuracy 94.4444 got in epoch 91 by cnn1d
+CWRUBearFFT0-2: Best accuracy 93.6111 got in epoch 128 by cnn1d
+CWRUBearFFT0-3: Best accuracy 85.5556 got in epoch 67 by cnn1d
+CWRUBearFFT1-0: Best accuracy 93.3333 got in epoch 488 by cnn1d
+CWRUBearFFT1-2: Best accuracy 97.7778 got in epoch 343 by cnn1d
+CWRUBearFFT1-3: Best accuracy 91.6667 got in epoch 434 by cnn1d
+CWRUBearFFT2-0: Best accuracy 89.7222 got in epoch 97 by cnn1d
+CWRUBearFFT2-1: Best accuracy 93.0556 got in epoch 80 by cnn1d
+CWRUBearFFT2-3: Best accuracy 95.0000 got in epoch 339 by cnn1d
+CWRUBearFFT3-0: Best accuracy 88.6111 got in epoch 140 by cnn1d
+CWRUBearFFT3-1: Best accuracy 88.6111 got in epoch 55 by cnn1d
+CWRUBearFFT3-2: Best accuracy 96.6667 got in epoch 129 by cnn1d
+lmmd_adv:
+CWRUBearFFT0-1: Best accuracy 84.1667 got in epoch 25 by cnn1d
+CWRUBearFFT0-2: Best accuracy 86.1111 got in epoch 41 by cnn1d
+CWRUBearFFT0-3: Best accuracy 86.3889 got in epoch 78 by cnn1d
+CWRUBearFFT1-0: Best accuracy 86.1111 got in epoch 42 by cnn1d
+CWRUBearFFT1-2: Best accuracy 85.8333 got in epoch 41 by cnn1d
+CWRUBearFFT1-3: Best accuracy 86.6667 got in epoch 86 by cnn1d
+CWRUBearFFT2-0: Best accuracy 86.6667 got in epoch 51 by cnn1d
+CWRUBearFFT2-1: Best accuracy 87.2222 got in epoch 34 by cnn1d
+CWRUBearFFT2-3: Best accuracy 88.3333 got in epoch 70 by cnn1d
+CWRUBearFFT3-0: Best accuracy 85.8333 got in epoch 43 by cnn1d
+CWRUBearFFT3-1: Best accuracy 86.1111 got in epoch 42 by cnn1d
+CWRUBearFFT3-2: Best accuracy 89.1667 got in epoch 9 by cnn1d
+plmmd_adv:
+CWRUBearFFT0-1: Best accuracy 95.0000 got in epoch 133 by cnn1d
+CWRUBearFFT0-2: Best accuracy 91.9444 got in epoch 189 by cnn1d
+CWRUBearFFT0-3: Best accuracy 90.2778 got in epoch 262 by cnn1d
+CWRUBearFFT1-0: Best accuracy 92.5000 got in epoch 35 by cnn1d
+CWRUBearFFT1-2: Best accuracy 95.2778 got in epoch 180 by cnn1d
+CWRUBearFFT1-3: Best accuracy 92.2222 got in epoch 58 by cnn1d
+CWRUBearFFT2-0: Best accuracy 90.2778 got in epoch 61 by cnn1d
+CWRUBearFFT2-1: Best accuracy 94.1667 got in epoch 392 by cnn1d
+CWRUBearFFT2-3: Best accuracy 93.8889 got in epoch 94 by cnn1d
+CWRUBearFFT3-0: Best accuracy 90.0000 got in epoch 133 by cnn1d
+CWRUBearFFT3-1: Best accuracy 90.5556 got in epoch 116 by cnn1d
+CWRUBearFFT3-2: Best accuracy 94.1667 got in epoch 174 by cnn1d
+Source Only:
+CWRUBearFFT0-1: Best accuracy 94.4444 got in epoch 339 by cnn1d
+CWRUBearFFT0-2: Best accuracy 94.7222 got in epoch 63 by cnn1d
+CWRUBearFFT0-3: Best accuracy 87.5000 got in epoch 81 by cnn1d
+CWRUBearFFT1-0: Best accuracy 93.3333 got in epoch 197 by cnn1d
+CWRUBearFFT1-2: Best accuracy 96.9444 got in epoch 161 by cnn1d
+CWRUBearFFT1-3: Best accuracy 90.5556 got in epoch 84 by cnn1d
+CWRUBearFFT2-0: Best accuracy 88.8889 got in epoch 211 by cnn1d
+CWRUBearFFT2-1: Best accuracy 93.6111 got in epoch 405 by cnn1d
+CWRUBearFFT2-3: Best accuracy 95.5556 got in epoch 243 by cnn1d
+CWRUBearFFT3-0: Best accuracy 88.3333 got in epoch 266 by cnn1d
+CWRUBearFFT3-1: Best accuracy 90.5556 got in epoch 242 by cnn1d
+CWRUBearFFT3-2: Best accuracy 96.1111 got in epoch 91 by cnn1d
+
+
+####################################################################
+#################### Single cnn1d for CWRUBear #####################
+####################################################################
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ 1D @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+mmd:
+CWRUBear1D0-1: Best accuracy 100.0000 got in epoch 68 by cnn1d
+CWRUBear1D0-2: Best accuracy 100.0000 got in epoch 84 by cnn1d
+CWRUBear1D0-3: Best accuracy 100.0000 got in epoch 84 by cnn1d
+CWRUBear1D1-0: Best accuracy 100.0000 got in epoch 24 by cnn1d
+CWRUBear1D1-2: Best accuracy 100.0000 got in epoch 67 by cnn1d
+CWRUBear1D1-3: Best accuracy 100.0000 got in epoch 236 by cnn1d
+CWRUBear1D2-0: Best accuracy 100.0000 got in epoch 79 by cnn1d
+CWRUBear1D2-1: Best accuracy 100.0000 got in epoch 95 by cnn1d
+CWRUBear1D2-3: Best accuracy 100.0000 got in epoch 179 by cnn1d
+CWRUBear1D3-0: Best accuracy 99.7222 got in epoch 137 by cnn1d
+CWRUBear1D3-1: Best accuracy 99.4444 got in epoch 438 by cnn1d
+CWRUBear1D3-2: Best accuracy 100.0000 got in epoch 38 by cnn1d
+adv:
+CWRUBear1D0-1: Best accuracy 100.0000 got in epoch 48 by cnn1d
+CWRUBear1D0-2: Best accuracy 100.0000 got in epoch 38 by cnn1d
+CWRUBear1D0-3: Best accuracy 100.0000 got in epoch 64 by cnn1d
+CWRUBear1D1-0: Best accuracy 100.0000 got in epoch 75 by cnn1d
+CWRUBear1D1-2: Best accuracy 100.0000 got in epoch 46 by cnn1d
+CWRUBear1D1-3: Best accuracy 100.0000 got in epoch 67 by cnn1d
+CWRUBear1D2-0: Best accuracy 100.0000 got in epoch 63 by cnn1d
+CWRUBear1D2-1: Best accuracy 100.0000 got in epoch 97 by cnn1d
+CWRUBear1D2-3: Best accuracy 100.0000 got in epoch 56 by cnn1d
+CWRUBear1D3-0: Best accuracy 100.0000 got in epoch 190 by cnn1d
+CWRUBear1D3-1: Best accuracy 100.0000 got in epoch 204 by cnn1d
+CWRUBear1D3-2: Best accuracy 100.0000 got in epoch 53 by cnn1d
+lmmd:
+CWRUBear1D0-1: Best accuracy 98.0556 got in epoch 358 by cnn1d
+CWRUBear1D0-2: Best accuracy 99.7222 got in epoch 338 by cnn1d
+CWRUBear1D0-3: Best accuracy 99.7222 got in epoch 429 by cnn1d
+CWRUBear1D1-0: Best accuracy 98.0556 got in epoch 474 by cnn1d
+CWRUBear1D1-2: Best accuracy 97.7778 got in epoch 479 by cnn1d
+CWRUBear1D1-3: Best accuracy 96.3889 got in epoch 362 by cnn1d
+CWRUBear1D2-0: Best accuracy 96.6667 got in epoch 459 by cnn1d
+CWRUBear1D2-1: Best accuracy 97.7778 got in epoch 471 by cnn1d
+CWRUBear1D2-3: Best accuracy 98.0556 got in epoch 8 by cnn1d
+CWRUBear1D3-0: Best accuracy 98.8889 got in epoch 477 by cnn1d
+CWRUBear1D3-1: Best accuracy 95.0000 got in epoch 23 by cnn1d
+CWRUBear1D3-2: Best accuracy 100.0000 got in epoch 392 by cnn1d
+coral:
+CWRUBear1D0-1: Best accuracy 100.0000 got in epoch 28 by cnn1d
+CWRUBear1D0-2: Best accuracy 100.0000 got in epoch 48 by cnn1d
+CWRUBear1D0-3: Best accuracy 91.6667 got in epoch 72 by cnn1d
+CWRUBear1D1-0: Best accuracy 100.0000 got in epoch 35 by cnn1d
+CWRUBear1D1-2: Best accuracy 100.0000 got in epoch 24 by cnn1d
+CWRUBear1D1-3: Best accuracy 98.6111 got in epoch 61 by cnn1d
+CWRUBear1D2-0: Best accuracy 100.0000 got in epoch 230 by cnn1d
+CWRUBear1D2-1: Best accuracy 99.4444 got in epoch 166 by cnn1d
+CWRUBear1D2-3: Best accuracy 100.0000 got in epoch 80 by cnn1d
+CWRUBear1D3-0: Best accuracy 91.1111 got in epoch 112 by cnn1d
+CWRUBear1D3-1: Best accuracy 96.3889 got in epoch 42 by cnn1d
+CWRUBear1D3-2: Best accuracy 100.0000 got in epoch 56 by cnn1d
+bnm:
+CWRUBear1D0-1: Best accuracy 100.0000 got in epoch 31 by cnn1d
+CWRUBear1D0-2: Best accuracy 100.0000 got in epoch 56 by cnn1d
+CWRUBear1D0-3: Best accuracy 100.0000 got in epoch 61 by cnn1d
+CWRUBear1D1-0: Best accuracy 100.0000 got in epoch 25 by cnn1d
+CWRUBear1D1-2: Best accuracy 100.0000 got in epoch 29 by cnn1d
+CWRUBear1D1-3: Best accuracy 100.0000 got in epoch 444 by cnn1d
+CWRUBear1D2-0: Best accuracy 100.0000 got in epoch 81 by cnn1d
+CWRUBear1D2-1: Best accuracy 100.0000 got in epoch 87 by cnn1d
+CWRUBear1D2-3: Best accuracy 100.0000 got in epoch 69 by cnn1d
+CWRUBear1D3-0: Best accuracy 100.0000 got in epoch 138 by cnn1d
+CWRUBear1D3-1: Best accuracy 100.0000 got in epoch 250 by cnn1d
+CWRUBear1D3-2: Best accuracy 100.0000 got in epoch 44 by cnn1d
+mmd_adv:
+CWRUBear1D0-1: Best accuracy 100.0000 got in epoch 30 by cnn1d
+CWRUBear1D0-2: Best accuracy 100.0000 got in epoch 110 by cnn1d
+CWRUBear1D0-3: Best accuracy 100.0000 got in epoch 108 by cnn1d
+CWRUBear1D1-0: Best accuracy 100.0000 got in epoch 217 by cnn1d
+CWRUBear1D1-2: Best accuracy 100.0000 got in epoch 148 by cnn1d
+CWRUBear1D1-3: Best accuracy 100.0000 got in epoch 185 by cnn1d
+CWRUBear1D2-0: Best accuracy 100.0000 got in epoch 78 by cnn1d
+CWRUBear1D2-1: Best accuracy 100.0000 got in epoch 79 by cnn1d
+CWRUBear1D2-3: Best accuracy 100.0000 got in epoch 204 by cnn1d
+CWRUBear1D3-0: Best accuracy 100.0000 got in epoch 363 by cnn1d
+CWRUBear1D3-1: Best accuracy 100.0000 got in epoch 140 by cnn1d
+CWRUBear1D3-2: Best accuracy 100.0000 got in epoch 43 by cnn1d
+lmmd_adv:
+CWRUBear1D0-1: Best accuracy 99.7222 got in epoch 445 by cnn1d
+CWRUBear1D0-2: Best accuracy 99.7222 got in epoch 321 by cnn1d
+CWRUBear1D0-3: Best accuracy 99.1667 got in epoch 459 by cnn1d
+CWRUBear1D1-0: Best accuracy 95.0000 got in epoch 498 by cnn1d
+CWRUBear1D1-2: Best accuracy 100.0000 got in epoch 457 by cnn1d
+CWRUBear1D1-3: Best accuracy 97.5000 got in epoch 432 by cnn1d
+CWRUBear1D2-0: Best accuracy 99.4444 got in epoch 466 by cnn1d
+CWRUBear1D2-1: Best accuracy 98.3333 got in epoch 431 by cnn1d
+CWRUBear1D2-3: Best accuracy 99.7222 got in epoch 376 by cnn1d
+CWRUBear1D3-0: Best accuracy 99.1667 got in epoch 470 by cnn1d
+CWRUBear1D3-1: Best accuracy 91.1111 got in epoch 416 by cnn1d
+CWRUBear1D3-2: Best accuracy 95.5556 got in epoch 51 by cnn1d
+plmmd_adv:
+CWRUBear1D0-1: Best accuracy 100.0000 got in epoch 24 by cnn1d
+CWRUBear1D0-2: Best accuracy 100.0000 got in epoch 83 by cnn1d
+CWRUBear1D0-3: Best accuracy 100.0000 got in epoch 53 by cnn1d
+CWRUBear1D1-0: Best accuracy 100.0000 got in epoch 27 by cnn1d
+CWRUBear1D1-2: Best accuracy 100.0000 got in epoch 29 by cnn1d
+CWRUBear1D1-3: Best accuracy 100.0000 got in epoch 43 by cnn1d
+CWRUBear1D2-0: Best accuracy 100.0000 got in epoch 57 by cnn1d
+CWRUBear1D2-1: Best accuracy 99.7222 got in epoch 71 by cnn1d
+CWRUBear1D2-3: Best accuracy 100.0000 got in epoch 92 by cnn1d
+CWRUBear1D3-0: Best accuracy 100.0000 got in epoch 113 by cnn1d
+CWRUBear1D3-1: Best accuracy 100.0000 got in epoch 407 by cnn1d
+CWRUBear1D3-2: Best accuracy 100.0000 got in epoch 58 by cnn1d
+Source Only:
+CWRUBear1D0-1: Best accuracy 100.0000 got in epoch 39 by cnn1d
+CWRUBear1D0-2: Best accuracy 99.7222 got in epoch 48 by cnn1d
+CWRUBear1D0-3: Best accuracy 96.9444 got in epoch 126 by cnn1d
+CWRUBear1D1-0: Best accuracy 100.0000 got in epoch 56 by cnn1d
+CWRUBear1D1-2: Best accuracy 100.0000 got in epoch 38 by cnn1d
+CWRUBear1D1-3: Best accuracy 100.0000 got in epoch 168 by cnn1d
+CWRUBear1D2-0: Best accuracy 99.1667 got in epoch 133 by cnn1d
+CWRUBear1D2-1: Best accuracy 99.1667 got in epoch 166 by cnn1d
+CWRUBear1D2-3: Best accuracy 100.0000 got in epoch 147 by cnn1d
+CWRUBear1D3-0: Best accuracy 94.4444 got in epoch 42 by cnn1d
+CWRUBear1D3-1: Best accuracy 93.8889 got in epoch 12 by cnn1d
+CWRUBear1D3-2: Best accuracy 100.0000 got in epoch 27 by cnn1d
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ FFT @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+mmd:
+CWRUBearFFT0-1: Best accuracy 96.3889 got in epoch 190 by cnn1d
+CWRUBearFFT0-2: Best accuracy 95.2778 got in epoch 93 by cnn1d
+CWRUBearFFT0-3: Best accuracy 92.5000 got in epoch 325 by cnn1d
+CWRUBearFFT1-0: Best accuracy 92.2222 got in epoch 27 by cnn1d
+CWRUBearFFT1-2: Best accuracy 97.2222 got in epoch 214 by cnn1d
+CWRUBearFFT1-3: Best accuracy 93.0556 got in epoch 338 by cnn1d
+CWRUBearFFT2-0: Best accuracy 91.1111 got in epoch 39 by cnn1d
+CWRUBearFFT2-1: Best accuracy 93.0556 got in epoch 55 by cnn1d
+CWRUBearFFT2-3: Best accuracy 95.8333 got in epoch 256 by cnn1d
+CWRUBearFFT3-0: Best accuracy 89.7222 got in epoch 23 by cnn1d
+CWRUBearFFT3-1: Best accuracy 88.6111 got in epoch 54 by cnn1d
+CWRUBearFFT3-2: Best accuracy 95.2778 got in epoch 54 by cnn1d
+adv:
+CWRUBearFFT0-1: Best accuracy 98.3333 got in epoch 362 by cnn1d
+CWRUBearFFT0-2: Best accuracy 97.5000 got in epoch 419 by cnn1d
+CWRUBearFFT0-3: Best accuracy 94.7222 got in epoch 189 by cnn1d
+CWRUBearFFT1-0: Best accuracy 96.9444 got in epoch 453 by cnn1d
+CWRUBearFFT1-2: Best accuracy 98.6111 got in epoch 462 by cnn1d
+CWRUBearFFT1-3: Best accuracy 96.9444 got in epoch 475 by cnn1d
+CWRUBearFFT2-0: Best accuracy 95.2778 got in epoch 178 by cnn1d
+CWRUBearFFT2-1: Best accuracy 95.8333 got in epoch 134 by cnn1d
+CWRUBearFFT2-3: Best accuracy 96.6667 got in epoch 62 by cnn1d
+CWRUBearFFT3-0: Best accuracy 94.7222 got in epoch 405 by cnn1d
+CWRUBearFFT3-1: Best accuracy 96.1111 got in epoch 463 by cnn1d
+CWRUBearFFT3-2: Best accuracy 98.6111 got in epoch 384 by cnn1d
+lmmd:
+CWRUBearFFT0-1: Best accuracy 84.1667 got in epoch 6 by cnn1d
+CWRUBearFFT0-2: Best accuracy 88.0556 got in epoch 8 by cnn1d
+CWRUBearFFT0-3: Best accuracy 80.8333 got in epoch 11 by cnn1d
+CWRUBearFFT1-0: Best accuracy 82.7778 got in epoch 7 by cnn1d
+CWRUBearFFT1-2: Best accuracy 85.0000 got in epoch 8 by cnn1d
+CWRUBearFFT1-3: Best accuracy 80.2778 got in epoch 10 by cnn1d
+CWRUBearFFT2-0: Best accuracy 86.3889 got in epoch 10 by cnn1d
+CWRUBearFFT2-1: Best accuracy 86.9444 got in epoch 11 by cnn1d
+CWRUBearFFT2-3: Best accuracy 90.5556 got in epoch 8 by cnn1d
+CWRUBearFFT3-0: Best accuracy 85.5556 got in epoch 4 by cnn1d
+CWRUBearFFT3-1: Best accuracy 85.8333 got in epoch 5 by cnn1d
+CWRUBearFFT3-2: Best accuracy 90.0000 got in epoch 44 by cnn1d
+coral:
+CWRUBearFFT0-1: Best accuracy 98.0556 got in epoch 166 by cnn1d
+CWRUBearFFT0-2: Best accuracy 96.3889 got in epoch 129 by cnn1d
+CWRUBearFFT0-3: Best accuracy 88.0556 got in epoch 110 by cnn1d
+CWRUBearFFT1-0: Best accuracy 94.1667 got in epoch 69 by cnn1d
+CWRUBearFFT1-2: Best accuracy 98.3333 got in epoch 232 by cnn1d
+CWRUBearFFT1-3: Best accuracy 91.9444 got in epoch 180 by cnn1d
+CWRUBearFFT2-0: Best accuracy 91.9444 got in epoch 185 by cnn1d
+CWRUBearFFT2-1: Best accuracy 95.5556 got in epoch 53 by cnn1d
+CWRUBearFFT2-3: Best accuracy 94.7222 got in epoch 85 by cnn1d
+CWRUBearFFT3-0: Best accuracy 89.4444 got in epoch 113 by cnn1d
+CWRUBearFFT3-1: Best accuracy 91.6667 got in epoch 110 by cnn1d
+CWRUBearFFT3-2: Best accuracy 98.6111 got in epoch 113 by cnn1d
+bnm:
+CWRUBearFFT0-1: Best accuracy 98.6111 got in epoch 105 by cnn1d
+CWRUBearFFT0-2: Best accuracy 98.3333 got in epoch 310 by cnn1d
+CWRUBearFFT0-3: Best accuracy 96.3889 got in epoch 388 by cnn1d
+CWRUBearFFT1-0: Best accuracy 96.9444 got in epoch 457 by cnn1d
+CWRUBearFFT1-2: Best accuracy 99.1667 got in epoch 479 by cnn1d
+CWRUBearFFT1-3: Best accuracy 98.0556 got in epoch 396 by cnn1d
+CWRUBearFFT2-0: Best accuracy 94.4444 got in epoch 139 by cnn1d
+CWRUBearFFT2-1: Best accuracy 97.5000 got in epoch 292 by cnn1d
+CWRUBearFFT2-3: Best accuracy 98.3333 got in epoch 221 by cnn1d
+CWRUBearFFT3-0: Best accuracy 94.1667 got in epoch 498 by cnn1d
+CWRUBearFFT3-1: Best accuracy 95.8333 got in epoch 340 by cnn1d
+CWRUBearFFT3-2: Best accuracy 98.8889 got in epoch 178 by cnn1d
+mmd_adv:
+CWRUBearFFT0-1: Best accuracy 95.0000 got in epoch 340 by cnn1d
+CWRUBearFFT0-2: Best accuracy 97.5000 got in epoch 234 by cnn1d
+CWRUBearFFT0-3: Best accuracy 94.7222 got in epoch 108 by cnn1d
+CWRUBearFFT1-0: Best accuracy 95.2778 got in epoch 474 by cnn1d
+CWRUBearFFT1-2: Best accuracy 97.2222 got in epoch 73 by cnn1d
+CWRUBearFFT1-3: Best accuracy 96.1111 got in epoch 124 by cnn1d
+CWRUBearFFT2-0: Best accuracy 94.7222 got in epoch 96 by cnn1d
+CWRUBearFFT2-1: Best accuracy 94.1667 got in epoch 412 by cnn1d
+CWRUBearFFT2-3: Best accuracy 96.1111 got in epoch 428 by cnn1d
+CWRUBearFFT3-0: Best accuracy 93.6111 got in epoch 154 by cnn1d
+CWRUBearFFT3-1: Best accuracy 94.1667 got in epoch 199 by cnn1d
+CWRUBearFFT3-2: Best accuracy 95.5556 got in epoch 168 by cnn1d
+lmmd_adv:
+CWRUBearFFT0-1: Best accuracy 85.2778 got in epoch 9 by cnn1d
+CWRUBearFFT0-2: Best accuracy 83.6111 got in epoch 11 by cnn1d
+CWRUBearFFT0-3: Best accuracy 80.2778 got in epoch 11 by cnn1d
+CWRUBearFFT1-0: Best accuracy 88.3333 got in epoch 11 by cnn1d
+CWRUBearFFT1-2: Best accuracy 87.5000 got in epoch 11 by cnn1d
+CWRUBearFFT1-3: Best accuracy 81.6667 got in epoch 11 by cnn1d
+CWRUBearFFT2-0: Best accuracy 87.2222 got in epoch 10 by cnn1d
+CWRUBearFFT2-1: Best accuracy 88.0556 got in epoch 6 by cnn1d
+CWRUBearFFT2-3: Best accuracy 89.4444 got in epoch 10 by cnn1d
+CWRUBearFFT3-0: Best accuracy 83.8889 got in epoch 8 by cnn1d
+CWRUBearFFT3-1: Best accuracy 86.3889 got in epoch 8 by cnn1d
+CWRUBearFFT3-2: Best accuracy 89.1667 got in epoch 8 by cnn1d
+plmmd_adv:
+CWRUBearFFT0-1: Best accuracy 96.6667 got in epoch 125 by cnn1d
+CWRUBearFFT0-2: Best accuracy 97.5000 got in epoch 457 by cnn1d
+CWRUBearFFT0-3: Best accuracy 95.0000 got in epoch 213 by cnn1d
+CWRUBearFFT1-0: Best accuracy 95.2778 got in epoch 210 by cnn1d
+CWRUBearFFT1-2: Best accuracy 97.7778 got in epoch 426 by cnn1d
+CWRUBearFFT1-3: Best accuracy 96.6667 got in epoch 121 by cnn1d
+CWRUBearFFT2-0: Best accuracy 94.7222 got in epoch 300 by cnn1d
+CWRUBearFFT2-1: Best accuracy 94.4444 got in epoch 273 by cnn1d
+CWRUBearFFT2-3: Best accuracy 96.1111 got in epoch 104 by cnn1d
+CWRUBearFFT3-0: Best accuracy 93.0556 got in epoch 484 by cnn1d
+CWRUBearFFT3-1: Best accuracy 93.8889 got in epoch 477 by cnn1d
+CWRUBearFFT3-2: Best accuracy 96.9444 got in epoch 15 by cnn1d
+Source Only:
+CWRUBearFFT0-1: Best accuracy 96.6667 got in epoch 97 by cnn1d
+CWRUBearFFT0-2: Best accuracy 95.8333 got in epoch 105 by cnn1d
+CWRUBearFFT0-3: Best accuracy 87.2222 got in epoch 78 by cnn1d
+CWRUBearFFT1-0: Best accuracy 95.0000 got in epoch 74 by cnn1d
+CWRUBearFFT1-2: Best accuracy 98.6111 got in epoch 458 by cnn1d
+CWRUBearFFT1-3: Best accuracy 92.5000 got in epoch 245 by cnn1d
+CWRUBearFFT2-0: Best accuracy 93.0556 got in epoch 154 by cnn1d
+CWRUBearFFT2-1: Best accuracy 96.3889 got in epoch 388 by cnn1d
+CWRUBearFFT2-3: Best accuracy 95.2778 got in epoch 47 by cnn1d
+CWRUBearFFT3-0: Best accuracy 88.6111 got in epoch 24 by cnn1d
+CWRUBearFFT3-1: Best accuracy 90.5556 got in epoch 39 by cnn1d
+CWRUBearFFT3-2: Best accuracy 98.0556 got in epoch 73 by cnn1d

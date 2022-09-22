@@ -1,0 +1,36 @@
+# Backbone
+basic_net: cnn1d # cnn1d
+
+# class
+num_class: 10
+
+# data_dir
+#data_dir: "../../Dataset/CQDX/CQDXBear/ZouBearingFaultRawConstantLoad.mat"
+#data_dir: "../../Dataset/CQDX/CQDXGear/gear_fault_rawdata_1024000x1_simple.mat"
+data_dir: "../../Dataset/For_the_strange_Benchmark/CWRU"
+
+# Transfer loss related
+transfer_loss_weight: 1.5
+#daan #coral #lmmd #mmd #bnm #plmmd_adv #mmd_adv #adv #lmmd_adv
+transfer_loss: sourceOnly
+# Whether using descend coefficient
+is_descend: 0
+
+# Optimizer related
+lr: 0.01
+momentum: 0.9
+weight_decay: 0.001 # 5e-4
+
+# scheduler related
+lr_scheduler_type: stepLR
+gamma: 0.9
+lr_decay: 0.75
+steps: 50
+
+# Training related
+n_epoch: 500
+batch_size: 16
+
+# Others
+seed: 1
+num_workers: 3
