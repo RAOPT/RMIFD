@@ -1,7 +1,6 @@
 import torch, os, CNN_Datasets, networks_transfer, networks_basic, x_tools
 import torch.nn as nn
 
-
 test_object = "basic"
 
 if __name__ == "__main__":

@@ -13,10 +13,10 @@ label_list = [0, 1, 2, 3, 4]
 
 def get_data_from_file(root: str, wc: str, direction=0, signal_size=1024):
     """
-    :param root:
-    :param wc:
-    :param direction:
-    :param signal_size:
+    :param root: path of raw data
+    :param wc: working conditions
+    :param direction: x or y or z axis direction
+    :param signal_size: size of a sample
     :return: [data:number*signalsize, label:number*1]
     """
     total_data, total_label = list(), list()
@@ -37,6 +37,12 @@ def get_data_from_file(root: str, wc: str, direction=0, signal_size=1024):
 
 
 def train_test_split_order(data_pd, test_size, num_class=5):
+    """
+    :param data_pd: processed data with list type
+    :param test_size: rate of test dataset
+    :param num_class: how many classes
+    :return: return the train and test dataset with DataFrame type
+    """
     train_pd = pd.DataFrame(columns=("data", "label"))
     val_pd = pd.DataFrame(columns=("data", "label"))
     for i in range(num_class):
@@ -49,6 +55,11 @@ def train_test_split_order(data_pd, test_size, num_class=5):
 
 
 def data_transforms(dataset_type="train", normlize_type="0-1"):
+    """
+    :param dataset_type: train or test dataset
+    :param normlize_type
+    :return: dataset enhancement method
+    """
     transforms = {
             'train': Compose([
             Reshape(),
@@ -102,7 +113,6 @@ class CQDXBearFFT(object):
         """
         :param test, wc: for every 1-D dataset, "wc" parameter could choose different domains
         :return: torch dataset of 1-D vibration data with sample size=1024
-
         """
         total_data = get_data_from_file(self.data_dir, wc=wc, signal_size=1024, direction=1)
         import numpy as np
@@ -130,7 +140,6 @@ class CQDXBear1DaFFT(object):
         """
         :param test, wc: for every 1-D dataset, "wc" parameter could choose different domains
         :return: torch dataset of 1-D vibration data with sample size=1024
-
         """
         total_data = get_data_from_file(self.data_dir, wc=wc, signal_size=1024, direction=1)
         import numpy as np

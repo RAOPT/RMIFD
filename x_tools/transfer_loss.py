@@ -4,6 +4,9 @@ from transfer_loss_funcs import *
 
 
 class TransferLoss(nn.Module):
+    """
+    choose the transfer loss calculated method
+    """
     def __init__(self, loss_type, **kwargs):
         super(TransferLoss, self).__init__()
         self.loss_type = loss_type
